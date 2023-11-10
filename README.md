@@ -9,4 +9,4 @@
 DeekshaMalviya/DeekshaMalviya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-(https://holopin.me/deekshamalviya)](https://holopin.io/@deekshamalviya)
+[![An image of @deekshamalviya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deekshamalviya)](https://holopin.io/@deekshamalviya)
