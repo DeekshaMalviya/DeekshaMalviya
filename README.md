@@ -15,11 +15,10 @@
 
 [![An image of @deekshamalviya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deekshamalviya)](https://holopin.io/@deekshamalviya)
 
-# 📊 GitHub Stats:
-<center>![](https://github-readme-stats.vercel.app/api?username=DeekshaMalviya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DeekshaMalviya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DeekshaMalviya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshaMalviya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</center>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
