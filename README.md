@@ -6,14 +6,16 @@
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm Deeksha Malviya</h1>
-  <h3 align="center">A passionate learner</h3>
+  <h3 align="center">🌟 A passionate learner exploring the digital universe 🚀</h3>
   
-  <p align="center">🌱 I’m currently growing</p>
+  <p align="center">🌱 Currently growing my skills and experiences</p>
 
-  <h3 align="left">Connect with me:</h3>
+  <h3 align="left">🌐 Connect with me </h3>
   <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/deeksha-malviya-6a7a24244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deeksha-malviya-6a7a24244/" height="30" width="40" /></a>
-    <a href ="deekshamalviya.in@gmail.com" target="_blank">Mail me</a> 
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/deeksha-malviya-6a7a24244/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="mailto:deekshamalviya.in@gmail.com" target="_blank">✉️ Mail me</a>
   </p>
 
   <h3 align="left">Languages and Tools:</h3>
