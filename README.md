@@ -8,7 +8,7 @@
   <h1 align="center">Hi 👋, I'm Deeksha Malviya</h1>
   <h3 align="center">🌟 A passionate learner exploring the digital universe 🚀</h3>
   
-  <p align="center">🌱 Currently growing my skills and experiences</p>
+  <p align="center">🌱 Currently levelling up my skills and experiences</p>
 
   <h3 align="left">🌐 Connect with me </h3>
   <p align="left">
